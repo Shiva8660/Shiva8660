@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **MERN Stack, DevOps, Cloud Computing**
+- 🌱 I’m currently learning **MERN Stack, Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Frontend & Backend Development for my E-Commerce Website**
 
